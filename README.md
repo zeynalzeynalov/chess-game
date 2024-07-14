@@ -1,2 +1,2 @@
-# chess-game
-Chess game
+# Chess game
+A simulation of Chess game with multithreaded mechanism.
